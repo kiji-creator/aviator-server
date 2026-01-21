@@ -1,12 +1,14 @@
 {
-  "users": {
-    "USER1186": {
+  "users": [
+    {
+      "username": "USER1186",
       "password": "1234",
       "status": "approved"
     },
-    "USER7137": {
+    {
+      "username": "USER7137",
       "password": "1234",
       "status": "approved"
     }
-  }
+  ]
 }
