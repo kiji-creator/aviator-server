@@ -1,18 +1,12 @@
 {
-  "users": [
-    {
-      "username": "USER1186",
+  "users": {
+    "USER1186": {
       "password": "1234",
       "status": "approved"
-    }
-  ]
-}
-{
-  "users": [
-    {
-      "username": "USER7137",
-      "password": "1234",
+    },
+    "USER7137": {
+      "password": "zdb7VJPC",
       "status": "approved"
     }
-  ]
+  }
 }
